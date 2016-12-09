@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "737421760678",
+    "firebase_url": "https://inochat-1cae0.firebaseio.com",
+    "project_id": "inochat-1cae0",
+    "storage_bucket": "inochat-1cae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737421760678:android:284658aff91a7a92",
+        "android_client_info": {
+          "package_name": "com.inonitylab.inochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737421760678-p6gkev31b0op0jj4vjmopsue72i61054.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inonitylab.inochat",
+            "certificate_hash": "84D490E2512D33A5A316D63D51FD340254BB6BC0"
+          }
+        },
+        {
+          "client_id": "737421760678-gf4m8bdusfjnq6g7eb6ivanh4fh1or6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB1Ankw4DtIvYLHZrPOiMmYmIUDRXfVG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737421760678-gf4m8bdusfjnq6g7eb6ivanh4fh1or6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
